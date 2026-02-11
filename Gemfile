@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
 gem "colorize"
-gem "octokit"
+gem "octokit", ">= 4.23.0"
